@@ -1,0 +1,19 @@
+{
+  "name": "kbk.js",
+  "version": "1.0.0",
+  "description": "kabu de uhauha tanosii na",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyken/kbk.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyken/kbk.js/issues"
+  },
+  "homepage": "https://github.com/kyken/kbk.js#readme"
+}
